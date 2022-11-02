@@ -7,7 +7,6 @@ public class firstClass {
 		
 	}
 	public static void main(String[] args) {
-		System.out.println("REALIZADOS LOS CAMBIOS");
 		Calculator calculator1 = new Calculator(5);
 		Calculator calculator2= new Calculator(150);
 		
